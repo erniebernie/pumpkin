@@ -1,1 +1,1 @@
-#define squash 5
+#define SQUASH 5
